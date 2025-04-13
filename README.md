@@ -63,3 +63,10 @@ This program is released under license GNU GPL v3+ license.
 ## 🔧 Support:
 
 Kindly report any issues with the application on its official repo on [github.com/mateus-sartorio/drawing-app](https://github.com/mateus-sartorio/drawing-app).
+
+<br/>
+
+
+## 📋 Disclaimer:
+
+This project was based of off [BananaCoding's tutorial on YouTube](https://www.youtube.com/watch?v=wCwKkT1P7vY&list=PLN0tvDAN1yvSNbkHAwPzJ5O4pP_e2vyme&index=10).
