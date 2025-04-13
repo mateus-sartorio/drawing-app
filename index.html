@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drawing app</title>
+
+    <link href="styles.css" type="text/css" rel="stylesheet"/>
+    <script
+        src="https://code.jquery.com/jquery-3.7.1.slim.min.js" 
+        integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" 
+        crossorigin="anonymous"
+    ></script>
+    
+    <script src="main.js" type="text/javascript" defer></script>
+</head>
+<body>
+    <div class="field">
+        <canvas id="canvas"></canvas>
+        <div class="tools">
+            <button type="button" class="button" onclick="undoLast()">Undo</button>     
+            <button type="button" class="button" onclick="clearCanvas()">Clear</button>
+
+            <div class="color-field" style="background: red" onclick="changeColor(this)"></div>
+            <div class="color-field" style="background: blue" onclick="changeColor(this)"></div>
+            <div class="color-field" style="background: green" onclick="changeColor(this)"></div>
+            <div class="color-field" style="background: yellow" onclick="changeColor(this)"></div>
+
+            <input type="color" class="color-picker" oninput="drawColor = this.value"/>
+            <input
+                type="range"
+                min="1"
+                max="25"
+                class="pen-range"
+                oninput="drawWidth = this.value"
+                id="range-input"
+            />
+        </div>
+    </div>
+</body>
+</html>
