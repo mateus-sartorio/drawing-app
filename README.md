@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="./assets/drawing.png" alt="" width="50%"/>
+  <img src="./assets/drawing.png" alt="" width="80%"/>
 </div>
 
 <br/>
