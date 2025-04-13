@@ -69,4 +69,4 @@ Kindly report any issues with the application on its official repo on [github.co
 
 ## 📋 Disclaimer:
 
-This project was based of off [BananaCoding's tutorial on YouTube](https://www.youtube.com/watch?v=wCwKkT1P7vY&list=PLN0tvDAN1yvSNbkHAwPzJ5O4pP_e2vyme&index=10).
+This project was based off of [BananaCoding's tutorial on YouTube](https://www.youtube.com/watch?v=wCwKkT1P7vY&list=PLN0tvDAN1yvSNbkHAwPzJ5O4pP_e2vyme&index=10).
