@@ -7,7 +7,7 @@
 
 # ✏️ Drawing App
 
-#### Minimalist interface, just what you need to get it done!
+### Minimalist interface, just what you need to get it done!
 
 <br/>
 
@@ -26,7 +26,7 @@ This project is meant to be simple and easy to use. Features are kept minimal bu
 <br/>
 
 
-## ⚙️ Running locally
+## ⚙️ Running it locally
 
 Clone the repository locally. Then, navigate to the directory of the cloned repository:
 
